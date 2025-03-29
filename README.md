@@ -1,5 +1,7 @@
 # Predicting March Madness Team Win Scores Using XGBoost and KenPom Data
-NOTE: As of 3/29 the top 8 teams in "Win Score" are the teams in the Elite 8 of the current tournament!
+
+**NOTE: As of 3/29 the top 8 teams in "Win Score" are the teams in the Elite 8 of the current tournament!**
+
 This project leverages the power of XGBoost regression to analyze and predict a team's win score in the NCAA March Madness tournament based on KenPom college basketball (CBB) data. The model aims to identify key features influencing tournament success and provide accurate predictions for each team.
 
 ## Project Motivation
