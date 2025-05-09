@@ -48,6 +48,8 @@ The project demonstrates:
 - Predictive accuracy of win scores during the tournament.
 - Insights into the key factors contributing to a team's success.
 
+This model was applied to the 2025 Men's Basketball Tournament resulting in a bracket that landed in the 80th percentile. The most noteworthy result was actually the fact that the model predicted all eight of the Elite 8 teams in the tournament.
+
 ## Contributions
 
 Contributions are welcome! If you have ideas for improving the project or extending its scope, please open an issue or submit a pull request.
